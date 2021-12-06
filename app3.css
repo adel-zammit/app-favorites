@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+
+.logo img{
+    position: absolute;
+    height: 50px;
+    width: 200px;
+    left: 700px;
+}
+
+;
+.nav {
+    display: inline-flex;
+    position: relative;
+
+    padding: 0 20px;
+    border-radius: 40px;
+    box-shadow: 0 10px 40px rgba(159, 162, 177, .8);
+}
+
+  
+  .nav-item {
+      position: relative;
+      padding: 20px;
+      margin: 0 6px;
+      text-decoration: none;
+    color: #000000;
+    font-family: 'DM Sans', sans-serif;
+    top: 70px;
+    left: 25%;
+  }
+  
+  h1{
+      left: 500px;
+      top: 15%;
+      position: absolute;
+      font-family: sans-serif;
+  }
+
+  content img{
+      position: absolute;
+      height: 400px;
+ 
+  }
+  
+content{
+    position: absolute;
+    top: 30%;
+    left: 450px;
+}
+
+main{
+    position: relative;
+    font-family: sans-serif;
+    padding:50px;
+    max-width:960px;
+    margin:4px;
+    top: 100px; 
+    font-size: 20px;
+    opacity: 0.7;
+    left: 100px;
+}
+
+#menu1{
+
+background-color: rgb(43, 130, 243);
+width:240px;
+margin: 2px;
+height: 100px;
+
+}
+
+#menu2 {
+
+    background-color: lightseagreen;
+width:240px;
+margin: 2px;
+height: 100px;
+}
+
+#menu3{
+    background-color: rgb(160, 84, 196);
+    width:240px;
+    margin: 2px;
+    height:100px;
+}
+
+
+#menu4{
+    background-color: rgb(255, 72, 72);
+    width:240px;
+    margin: 2px;
+    height: 100px;
+}
+
+button{
+    border-radius: 30%;
+    height: 40px;
+    background-color: white;
+}
+
+.télécharger{
+font-family: sans-serif;
+position: absolute;
+font-size: 20px;
+left: 800px;
+height: 300px;
+width: 40px;
+}
+
+

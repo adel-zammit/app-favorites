@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Sans:500,700&display=swap');
+
+body{
+    background-color: rgb(248, 244, 12);
+
+}
+
+nav{
+    flex-direction: row;
+    justify-content: space-around;
+    display: flex;
+}
+
+.nav-item {
+    text-decoration: none;
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+.friends{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.media{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.contain{
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+margin-top: 5%;
+
+}
+
+
+.movie-center1{
+
+    
+
+}
+
+.movie-center2{
+
+
+}
